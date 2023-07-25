@@ -9,3 +9,6 @@ The EfficientNet-B0 model was used for this task. Please read the report.
 Bourbaki's team member :
    **Verlon Roel MBINGUI**
    **Dieu-Donne FANGNON**
+
+
+   Rank : 1/20
