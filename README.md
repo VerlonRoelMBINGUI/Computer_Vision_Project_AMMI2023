@@ -7,9 +7,10 @@ It aims to classify Cassava Leaves: Healthy and diseased. The main objectif of t
 The EfficientNet-B0 model was used for this task. Please read the report.
 
 Bourbaki's team member :
-   **Verlon Roel MBINGUI**
+
+  1.  **Verlon Roel MBINGUI**
    
-   **Dieu-Donne FANGNON**
+  2.  **Dieu-Donne FANGNON**
 
 
    Rank : 1/20
